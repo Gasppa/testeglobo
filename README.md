@@ -1,9 +1,6 @@
 # Teste Técnico - Rede Globo - Time Shared
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-
 ## 💻 Resumo
 Essa aplicação deve funcionar como um multichat em tempo real.
 A API do projeto (Node) e o banco de dados estão rodando no Heroku e o front (React) está rodando no servidor da Netlify.
