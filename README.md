@@ -22,7 +22,7 @@ https://zealous-hopper-5ae6a7.netlify.app/
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradeço do fundo do coração às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
