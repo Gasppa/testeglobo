@@ -1,0 +1,12 @@
+{
+    "name": "testeglobo",
+    "collectCoverageFrom": [
+      "**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/coverage/**",
+      "!**/index.js",
+      "!**/helpers/**",
+      "!**/client/**",
+      "!**/vendor/**"
+    ]
+  }
